@@ -1,0 +1,30 @@
+.main {
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    grid: auto auto / auto auto auto auto;
+    grid-gap: 10px;
+    background-color: green;
+    padding: 10px;
+}
+  
+.gfg {
+    background-color: lightgrey;
+    text-align: center;
+    padding: 25px 0;
+    font-size: 30px;
+}
+.gridcontainer {
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    grid: auto auto / auto auto auto auto;
+    grid-gap: 10px;
+    background-color: green;
+    padding: 10px;
+}
+  
+.griditems {
+    background-color: lightgrey;
+    text-align: center;
+    padding: 25px 0;
+    font-size: 30px;
+}
